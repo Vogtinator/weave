@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/containernetworking/cni/pkg/ipam"
+	"github.com/containernetworking/plugins/pkg/ipam"
 	"github.com/containernetworking/cni/pkg/skel"
 	"github.com/containernetworking/cni/pkg/types"
 	"github.com/containernetworking/cni/pkg/types/current"
